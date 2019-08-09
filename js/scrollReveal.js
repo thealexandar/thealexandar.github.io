@@ -91,7 +91,7 @@ sr.reveal('.fromRightLine', {
 sr.reveal('.fromRightDelay', {
   duration: 2000,
   origin: 'right',
-  distance: '500px',
+  distance: '150px',
   delay: 1000,
   easing: 'ease'
 });
